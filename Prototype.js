@@ -21,6 +21,6 @@ function Contact(first_name, last_name, phone_number, email)
 
 console.log("full_name:" + this.first_name + " " + this.last_name);
 }
-var Contact1 =(David = new Contact (" Roland " + " Bisasso " + " 0755363699 " + " roland.bisasso@gmail.com " + " Nsabya " + "Kampala " + " Uganda ");
+var Contact1 =(contact1 = new Contact (" Roland " + " Bisasso " + " 0755363699 " + " roland.bisasso@gmail.com " + " Nsabya " + "Kampala " + " Uganda ");
 
 Contact.full_name ();
